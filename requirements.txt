@@ -18,7 +18,6 @@ jupyter_core==5.9.1
 kiwisolver==1.4.9
 matplotlib==3.10.7
 matplotlib-inline==0.1.7
-morfeusz2 @ http://download.sgjp.pl/morfeusz/20250928/Windows/64/morfeusz2-1.99.11-20250928-cp311-cp311-win_amd64.whl#sha256=6b36c5d52f4337859d35a538ec08d282a8367305f2a721eca4a799352b330275
 nest-asyncio==1.6.0
 nltk==3.9.2
 numpy==2.3.4
